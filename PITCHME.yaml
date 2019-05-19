@@ -6,8 +6,6 @@ layout : center
 highlight : monokai
 
 theme : night
-# theme-override : assets/css/PITCHME.css
+theme-override : assets/css/PITCHME.css
 
 transition : fade
-
-theme-override : assets/css/PITCHME.css
