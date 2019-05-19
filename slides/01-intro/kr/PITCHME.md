@@ -37,21 +37,21 @@
 오른편asdl;fkajs;ldkfja;sldkjf;laksdjf;laskdj;flaksdj;flaksjd;flkajs;dlfkja;sldkfj;alsdkfj
 @snapend
 
----code=../src/helloworld.py&lang=python
-
-@title[code 테스트]
+---?code=slides/01-intro/src/helloworld.py&lang=python
 
 @[1](Function definition.)
 @[2](Prints Hello, world!)
+
+@title[code 테스트]
 
 ---
 
 @title[code 테스트2]
 
 @snap[west snap-50]
-@code[python](../src/helloworld.py)
+@code[zoom-10 code-max](slides/01-intro/src/helloworld.py)
 @snapend
 
 @snap[east snap-50]
-@code[python](../src/helloworld.py)
+@code[zoom-10 code-max](slides/01-intro/src/helloworld.py)
 @snapend
