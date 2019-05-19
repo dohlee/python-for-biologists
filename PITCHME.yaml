@@ -1,5 +1,6 @@
 # Layout
-layout : top
+# By default, gitpitch uses 'center' layout.
+layout : center
 
 # Code highlighting.
 highlight : monokai
