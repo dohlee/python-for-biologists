@@ -30,28 +30,16 @@
 @title[snap 테스트]
 
 @snap[west snap-50]
-왼편asdflk;ajs;dlfkjal;sdkfj;alskdjf;laksdjf;laskdj;flaksjd;lfkajs;dlfkja;lsdkfja;lsd
+## 왼편
 @snapend
 
 @snap[east snap-50]
-오른편asdl;fkajs;ldkfja;sldkjf;laksdjf;laskdj;flaksdj;flaksjd;flkajs;dlfkja;sldkfj;alsdkfj
+## 오른편
 @snapend
 
 ---?code=slides/01-intro/src/helloworld.py&lang=python
 
-@[1](Function definition.)
-@[2](Prints Hello, world!)
+@[1](함수의 정의)
+@[2](Hello, world! 를 프린트!)
 
 @title[code 테스트]
-
----
-
-@title[code 테스트2]
-
-@snap[west snap-50]
-@code[zoom-10 code-max](slides/01-intro/src/helloworld.py)
-@snapend
-
-@snap[east snap-50]
-@code[zoom-10 code-max](slides/01-intro/src/helloworld.py)
-@snapend
