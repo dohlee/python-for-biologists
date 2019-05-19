@@ -1,0 +1,10 @@
+# Layout
+layout : top
+
+# Code highlighting.
+highlight : monokai
+
+theme : night
+# theme-override : assets/css/PITCHME.css
+
+transition : fade
