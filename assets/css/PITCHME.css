@@ -1,3 +1,7 @@
-code {
+.reveal pre code {
     font-family: Consolas !important;
+}
+
+.hljs {
+    background: none !important;
 }
