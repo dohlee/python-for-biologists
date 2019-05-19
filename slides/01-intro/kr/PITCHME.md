@@ -28,6 +28,7 @@
 ---
 
 @title[snap 테스트]
+
 @snap[west snap-50]
 왼편asdflk;ajs;dlfkjal;sdkfj;alskdjf;laksdjf;laskdj;flaksjd;lfkajs;dlfkja;lsdkfja;lsd
 @snapend
@@ -48,6 +49,7 @@ def hello_world():
 ---
 
 @title[code 테스트2]
+
 @snap[west snap-50]
 ```python
 def hello_world():
