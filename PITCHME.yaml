@@ -9,3 +9,5 @@ theme : night
 # theme-override : assets/css/PITCHME.css
 
 transition : fade
+
+theme-override : assets/css/PITCHME.css
