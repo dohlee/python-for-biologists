@@ -37,29 +37,21 @@
 오른편asdl;fkajs;ldkfja;sldkjf;laksdjf;laskdj;flaksdj;flaksjd;flkajs;dlfkja;sldkfj;alsdkfj
 @snapend
 
----
+---code=../src/helloworld.py&lang=python
 
 @title[code 테스트]
 
-```python
-def hello_world():
-    print('Hello, world!')
-```
+@[1](Function definition.)
+@[2](Prints Hello, world!)
 
 ---
 
 @title[code 테스트2]
 
 @snap[west snap-50]
-```python
-def hello_world():
-    print('Hello, world!')
-```
+@code[python](../src/helloworld.py)
 @snapend
 
 @snap[east snap-50]
-```python
-def hello_world():
-    print('Hello, world!')
-```
+@code[python](../src/helloworld.py)
 @snapend
