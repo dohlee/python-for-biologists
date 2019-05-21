@@ -1,5 +1,5 @@
 .reveal pre code {
-    font-family: Inconsolata, monospace !important;
+    font-family: Inconsolata, Consolas, monospace !important;
 }
 
 .hljs {
