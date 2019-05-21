@@ -36,14 +36,10 @@
 
 ### 이 강좌를 듣고 나면?
 
----
+---?code=slides/01-intro/src/reversecomplement.py&lang=python
 
-```python
-def hello_world():
-    print('Hello, world!')
-```
-@[1](함수의 정의)
-@[2](Hello, world! 를 출력!)
+@[1](DNA 서열을 넣으면)
+@[2](Reverse complement를 출력!)
 
 ---?code=slides/01-intro/src/helloworld.py&lang=python
 
