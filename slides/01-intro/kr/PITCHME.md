@@ -46,3 +46,7 @@
 @[1](두 서열 간의)
 @[2-4](Pairwise alignment 결과를 출력!)
 
+---?code=slides/01-intro/src/genesequence.py&lang=python
+
+@[1](유전자 이름만 넣으면)
+@[2](유전자의 DNA 서열이 출력!)
