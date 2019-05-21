@@ -41,9 +41,8 @@
 @[1](DNA 서열을 넣으면)
 @[2](Reverse complement를 출력!)
 
----?code=slides/01-intro/src/helloworld.py&lang=python
+---?code=slides/01-intro/src/alignment.py&lang=python
 
-@[1](함수의 정의)
-@[2](Hello, world! 를 프린트!)
+@[1](두 서열 간의)
+@[2-4](Pairwise alignment 결과를 출력!)
 
-@title[code 테스트]
