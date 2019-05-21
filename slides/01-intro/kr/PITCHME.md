@@ -50,3 +50,8 @@
 
 @[1](유전자 이름만 넣으면)
 @[2](유전자의 DNA 서열이 출력!)
+
+---?code=slides/01-intro/src/proteindomain.py&lang=python
+
+@[1](단백질 이름만 넣으면)
+@[2-4](단백질의 domain 정보가 출력!)
